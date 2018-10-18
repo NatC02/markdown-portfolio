@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# Bio
+
+Cory Fowler (@SyntaxC4) has been working in open source for over a decade!
